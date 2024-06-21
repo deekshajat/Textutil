@@ -52,7 +52,7 @@ function App() {
             <Route exact path="/"> */}
         <TextForm
           showAlert={showAlert}
-          heading="Enter the text to analyze"
+          heading="Enter the text to analyzee"
           mode={mode}
         />
         {/* </Route>
